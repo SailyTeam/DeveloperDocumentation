@@ -1,0 +1,12 @@
+title: Saily Developer
+tagline: API Documentation for Saily.
+description: Learn about the APIs powering Saily's innovative new features.
+
+# Build settings
+markdown: kramdown
+theme: minima
+permalink: /:slug
+
+collections:
+  docs:
+    output: true
